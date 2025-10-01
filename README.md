@@ -1,2 +1,2 @@
 hello world
-This is me tryimg to learn data science
+This is me trying to learn data science
